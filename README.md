@@ -5,7 +5,7 @@
   - 目前在学习逆向技术和各类自动化工具开发。
 
 - 我参与的项目
-  - [f8x](https://github.com/ffffffff0x/f8x) - 红队环境自动化部署工具
+  - [f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具
   - [1earn](https://github.com/No-Github/1earn) - 个人维护的安全知识框架
   - [Pentest101](https://github.com/ffffffff0x/Pentest101) - 每周(也许不)分享渗透测试的知识点
   - [Dork-Admin](https://github.com/ffffffff0x/Dork-Admin) - 盘点近年来的数据泄露、供应链污染事件
