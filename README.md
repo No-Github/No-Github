@@ -2,7 +2,7 @@
 
 - About Me
   - 喜欢钻研技术,懂一些安全知识。
-  - 目前正在学习 Crypto 和 Misc 相关的知识。
+  - 目前正在学习 PHP 和 JAVA 相关的知识。
 
 - List of Projects
   - [f8x](https://github.com/ffffffff0x/f8x) - 红/蓝队环境自动化部署工具
