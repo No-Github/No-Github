@@ -1,6 +1,7 @@
 ### Hello World
 
 - About Me
+  - Don't cry because it's over.Smile because it happened
   - 喜欢钻研技术,懂一些安全知识。
 - List of Projects
   - [f8x](https://github.com/ffffffff0x/f8x) - Red/Blue team environment automation deployment tool
