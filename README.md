@@ -10,6 +10,8 @@
   - [Dork-Admin](https://github.com/ffffffff0x/Dork-Admin) - 盘点近年来的数据泄露、供应链污染事件
   - [AboutSecurity](https://github.com/ffffffff0x/AboutSecurity) - Everything for pentest.
   - [Digital-Privacy](https://github.com/ffffffff0x/Digital-Privacy) - Information Protection & OSINT resources
+  - [ones](https://github.com/ffffffff0x/ones) - 可用于多个网络资产测绘引擎 API 的命令行查询工具
+  - [name-fuzz](https://github.com/ffffffff0x/name-fuzz) - 针对目标已知信息的字典生成工具
 
 - Contact me
   - D2hwakH7BS5E@protonmail.com
