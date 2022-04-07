@@ -16,4 +16,6 @@
 - Contact me
   - D2hwakH7BS5E@protonmail.com
 
+送给大家一句话 : 不要在心里砌上一个看不见的墙，再没可能的事，只要不伤筋动骨，皆可尝试一下。
+
 ![github contribution grid snake animation](https://raw.githubusercontent.com/No-Github/No-Github/output/github-contribution-grid-snake.svg)
