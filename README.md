@@ -1,6 +1,9 @@
-公众号
+个人公众号
 
 ![](./qr.png)
+
+团队公众号
+![](./qr2.png)
 
 我的博客
 - https://r0fus0d.blog.ffffffff0x.com/
