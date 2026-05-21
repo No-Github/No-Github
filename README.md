@@ -1,6 +1,6 @@
 个人公众号 / 团队公众号
 
-![](./qr.jpg) ![](./qr2.png)
+<img src="./qr.jpg" width="180" /><img src="./qr2.png" width="180" />
 
 我的博客
 - https://r0fus0d.blog.ffffffff0x.com/
